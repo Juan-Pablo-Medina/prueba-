@@ -1,5 +1,5 @@
 a = 2 
-b = "Hola Mundo"
+b = "Hola a todo el mundo"
 
 c = a*b
 
